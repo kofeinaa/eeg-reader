@@ -1,0 +1,8 @@
+/data/*
+/models/*
+/results/*
+/notebooks/*
+chan*
+result*
+/.idea/*
+/__pycache__/*
